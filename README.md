@@ -1,4 +1,4 @@
 appz
 ====
 
-Frist proyect
+First Project
